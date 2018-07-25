@@ -24,3 +24,6 @@ end
 new_dog=Dog.new("Kenny")
 puts new_dog.name
 puts new_dog.breed
+new_dog.breed = "German Shepard"
+puts new_dog.name
+puts new_dog.breed
