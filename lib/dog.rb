@@ -20,3 +20,5 @@ class Dog
     @breed
   end
 end
+
+new_dog=Dog.new("Kenny")
