@@ -22,4 +22,4 @@ class Dog
 end
 
 new_dog=Dog.new("Kenny")
-puts new_dog.name
+new_dog.name
