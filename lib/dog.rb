@@ -22,4 +22,5 @@ class Dog
 end
 
 new_dog=Dog.new("Kenny")
-new_dog.name
+puts new_dog.name
+puts new_dog.breed
